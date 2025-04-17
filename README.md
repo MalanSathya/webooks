@@ -1,4 +1,4 @@
-# 📚 Book Collection App – Serverless Deployment Guide
+# 📚 WeBooks.com – Serverless Deployment Guide
 
 Welcome to your DIY deployment guide for the **Serverless Book Collection App**! This markdown will walk you through all the magic behind getting your CRUD-powered app live using AWS services like **DynamoDB**, **Lambda**, **API Gateway**, and **S3** 🙌
 
